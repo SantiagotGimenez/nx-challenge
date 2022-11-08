@@ -15,6 +15,6 @@ Otra tabla tiene los significados de cada una de las variables en dichas tablas:
 drive-download-20221102T125102Z-001/Copia de HomeCredit_columns_description - HomeCredit_columns_description.parquet
 
 Las tablas se relacionan de la siguiente forma:
-![alt text](https://github.com/SantiagotGimenez/nx-challenge/blob/main/drive-download-20221102T125102Z-001/Copia de DER.png?raw=true)
+![alt text](drive-download-20221102T125102Z-001/Copia de DER.png?raw=true)
 
 
