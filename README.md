@@ -21,6 +21,6 @@ drive-download-20221102T125102Z-001/Copia de HomeCredit_columns_description - Ho
 
 #### Diagrama Entidad-Relación
 
-![Alt text](drive-download-20221102T125102Z-001/DER.png?raw=true')
+![Alt text](images/DER.png?raw=true')
 
 
