@@ -21,6 +21,6 @@ drive-download-20221102T125102Z-001/Copia de HomeCredit_columns_description - Ho
 
 #### Diagrama Entidad-Relación
 
-![Alt text](nx-challenge/drive-download-20221102T125102Z-001/DER.png?raw=true 'Diagrama ente-relacion')
+![Alt text](drive-download-20221102T125102Z-001/DER.png?raw=true')
 
 
