@@ -16,9 +16,6 @@ drive-download-20221102T125102Z-001/Copia de application_train.parquet
 drive-download-20221102T125102Z-001/Copia de credit_card_balance.parquet
 drive-download-20221102T125102Z-001/Copia de installments_payments.parquet
 
-Otra tabla tiene los significados de cada una de las variables en dichas tablas:
-drive-download-20221102T125102Z-001/Copia de HomeCredit_columns_description - HomeCredit_columns_description.parquet
-
 #### Diagrama Entidad-Relación
 
 ![Alt text](images/DER.png?raw=true')
